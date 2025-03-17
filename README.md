@@ -20,7 +20,7 @@
 ---
 
 ## ✨ **3. Amélioration graphique & Mods**
-### 🔹 **Installation du mod "PC Remaster Project"**
+### 🔹 **Installation du mod "PC Remaster Project" pour améliorer le jeu et fix certains bug**
 1. Télécharger le **PC Remaster Project** sur [NexusMods](https://www.nexusmods.com/bloodborne/mods/45?tab=description).
 2. Extraire le contenu du fichier **ZIP**.
 3. Copier **le contenu du mod** dans le dossier du jeu installé :  
@@ -33,6 +33,13 @@
 3. Lors de la configuration :
    - Sélectionner **Vulkan** (*ne pas choisir un autre moteur*).
    - Parcourir et sélectionner **BBRPreshade.ini** situé dans `dvdroot_ps4`.
+  
+### 🔹 **Installation de Vertex Explosion Fix**
+1. Télécharger le **Vertex Explosion Fix** sur [NexusMods]([https://www.nexusmods.com/bloodborne/mods/45?tab=description](https://www.nexusmods.com/bloodborne/mods/109?tab=description)).
+2. Extraire le contenu du fichier **ZIP**.
+3. Copier **le contenu du mod** dans le dossier du jeu installé :  
+   📂 **dvdroot_ps4/parts** *(du dossier de Bloodborne installé)*.
+4. Valider la modification des fichiers.
 
 ---
 
