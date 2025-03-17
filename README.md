@@ -34,7 +34,7 @@
    - Sélectionner **Vulkan** (*ne pas choisir un autre moteur*).
    - Parcourir et sélectionner **BBRPreshade.ini** situé dans `dvdroot_ps4`.
   
-### 🔹 **Installation de Vertex Explosion Fix**
+### 🔹 **Installation de Vertex Explosion Fix pour fix le probleme de texture visage**
 1. Télécharger le **Vertex Explosion Fix** sur [NexusMods]([https://www.nexusmods.com/bloodborne/mods/45?tab=description](https://www.nexusmods.com/bloodborne/mods/109?tab=description)).
 2. Extraire le contenu du fichier **ZIP**.
 3. Copier **le contenu du mod** dans le dossier du jeu installé :  
